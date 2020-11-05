@@ -1,7 +1,13 @@
+div {
+    margin-top: 10px;
 
+}
 
+li {
+    display: inline;
+}
 
-section img {
+img {
     width: 20%;
     height: 20%;
     object-fit: cover;
